@@ -85,5 +85,5 @@ INSERT INTO tb_belonging (list_id, game_id, position) VALUES (2, 10, 4);
 
 
 # Autor
-Francisco Felipe de Brito Correia
+Francisco Correia
 
