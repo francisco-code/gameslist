@@ -1,7 +1,7 @@
 # Sobre o projeto
 
 GameList é um backend com base de dados para organizar/listar os seus games.
-Existem quatro endpoints para você consumir organizando a sua coleção, veja abaixo esses endpoints:
+Existem cinco endpoints para você consumir organizando a sua coleção, veja abaixo esses endpoints:
 
 - /games   (traz a lista com todos os seus games cadastrados na base)
 - /games/2   (traz qualquer game por Id com toda a descrição cadastrada na base)
