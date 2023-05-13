@@ -9,8 +9,8 @@ Existem quatro endpoints para você consumir organizando a sua coleção, veja a
 - /lists/2/games   (traz os games de cada lista, pois você pode ter 3 listas de tipos de games, por exemplo)
 - /lists/2/replacement   (esse endpoint tem o verbo http POST para que o front te envie informações da posição dos games na lista. Dessa forma, você consegue reposicioná-los como quiser na lista)
 
-## Exemplo de body do POST: 
-```
+## Exemplo de body do POST para reposicionar os games: 
+```json
 {
     "sourceIndex": 2,
     "destinationIndex": 1
